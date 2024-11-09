@@ -135,3 +135,5 @@ kubectl apply -f k8s
 Setup Vultr Load Balancer
 
 Configure a Vultr Load Balancer and connect it to the Kubernetes cluster to manage incoming traffic.
+![WhatsApp Image 2024-11-09 at 03 17 29_b46ca6b5](https://github.com/user-attachments/assets/402605cf-a306-48c1-8026-21df4d678907)
+
