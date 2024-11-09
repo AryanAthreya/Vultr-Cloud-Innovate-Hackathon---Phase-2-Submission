@@ -25,8 +25,8 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/smart-agriculture-plant-care.git
-cd smart-agriculture-plant-care
+git clone https://github.com/AryanAthreya/Vultr-Cloud-Innovate-Hackathon---Phase-2-Submission.git
+
 Backend Setup
 
 Navigate to the backend directory:
