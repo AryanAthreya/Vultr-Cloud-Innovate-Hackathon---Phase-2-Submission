@@ -1,4 +1,4 @@
-# Vultr-Cloud-Innovate-Hackathon---Phase-2-Submission
+# AI-Powered Cultivation Recommendations: Tailored suggestions for irrigation
 Vultr Cloud Innovate Hackathon - Phase 2 Submission- project building
 Smart Agriculture and Plant Care: AI-Powered Cultivation and Disease Management
 This repository contains the codebase for an AI-powered platform designed to assist farmers, gardeners, and plant nurseries in optimizing plant cultivation and disease management. Leveraging cloud infrastructure and machine learning models, this platform provides personalized recommendations for plant care and early disease detection.
