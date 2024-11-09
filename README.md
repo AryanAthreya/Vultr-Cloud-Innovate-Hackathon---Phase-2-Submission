@@ -3,25 +3,14 @@ Vultr Cloud Innovate Hackathon - Phase 2 Submission- project building
 Smart Agriculture and Plant Care: AI-Powered Cultivation and Disease Management
 This repository contains the codebase for an AI-powered platform designed to assist farmers, gardeners, and plant nurseries in optimizing plant cultivation and disease management. Leveraging cloud infrastructure and machine learning models, this platform provides personalized recommendations for plant care and early disease detection.
 
-Table of Contents
-Features
-Architecture Overview
-Prerequisites
-Installation
-Environment Configuration
-Usage
-API Endpoints
-Deployment
-Contributing
-License
-Features
+
+Features:
 AI-Powered Cultivation Recommendations: Tailored suggestions for irrigation, nutrient management, and planting schedules.
 Disease Detection: Early disease identification through image analysis.
 User Customization: Reminders for plant care, optimal plant placement, and sustainability tips.
 Architecture Overview
 This project utilizes several services from Vultr for storage, compute, and scalability:
 
-Vultr Object Storage: Stores user-uploaded images for analysis.
 Vultr Kubernetes Engine (VKE): Manages machine learning models and backend services.
 Vultr Load Balancer: Ensures high availability and performance across different regions.
 Vultr Block Storage: Used for scalable storage of datasets and backups.
